@@ -183,10 +183,7 @@ software:
 
   packages:
     - path: ../platforms/macos/software/zoom.yml
-      self_service: true
-      categories:
-        - Communication
-
+    
   app_store_apps: # Apps to install via VPP from the macOS App Store, if any
     # …
 settings:
